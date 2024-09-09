@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "TD1_6.exe (TD\\TD1\\TD1_6.exe)",
+      "name": "TD1_6.exe (TD\\TD1\\TD1_6.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "TD1_8.exe (TD\\TD1\\TD1_8.exe)",
+      "name": "TD1_8.exe (TD\\TD1\\TD1_8.exe)"
+    }
+  ]
+}

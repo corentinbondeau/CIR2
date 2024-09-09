@@ -7,8 +7,11 @@
   },
   "ExpandedNodes": [
     "",
-    "\\TD\\TD1"
+    "\\TD",
+    "\\TD\\TD1",
+    "\\TP",
+    "\\TP\\TP1"
   ],
-  "SelectedNode": "\\CMakeLists.txt",
+  "SelectedNode": "\\TP\\TP1\\TP1_1.cpp",
   "PreviewInSolutionExplorer": false
 }
