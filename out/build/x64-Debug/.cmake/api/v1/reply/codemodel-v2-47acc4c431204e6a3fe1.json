@@ -1,0 +1,130 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "TD",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-TD-Debug-0b1d8527c1c05f3c6c61.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "TD"
+				},
+				{
+					"build" : "TD/TD1",
+					"jsonFile" : "directory-TD.TD1-Debug-a8efe4296fd5797f0685.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.9"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "TD/TD1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TD_General"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "TD",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "TD1_1::@c9a303d2f785364fb311",
+					"jsonFile" : "target-TD1_1-Debug-35f28ea8cd3a09e4c6c6.json",
+					"name" : "TD1_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TD1_2::@c9a303d2f785364fb311",
+					"jsonFile" : "target-TD1_2-Debug-860f86bbf8f692765f14.json",
+					"name" : "TD1_2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TD1_3::@c9a303d2f785364fb311",
+					"jsonFile" : "target-TD1_3-Debug-093bde3be821e1cf0599.json",
+					"name" : "TD1_3",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TD1_4::@c9a303d2f785364fb311",
+					"jsonFile" : "target-TD1_4-Debug-436897d6124d1407cfae.json",
+					"name" : "TD1_4",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug",
+		"source" : "C:/Users/corentin.bondeau/source/repos/CIR2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

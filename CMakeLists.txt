@@ -1,0 +1,5 @@
+﻿cmake_minimum_required(VERSION 3.9)
+
+project(TD_General)
+
+add_subdirectory(TD)
