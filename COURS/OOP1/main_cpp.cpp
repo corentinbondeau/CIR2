@@ -6,7 +6,7 @@
 
 int main()
 {
-    const int const_size = 3;
+    const int const_size = 4;
     Rectangle rectangle(5.f, 10.f); // length_ = 5.f, width_ = 10.f;
     printf("area Shape : %f...\n", rectangle.get_area());
     rectangle.print_data();
@@ -29,7 +29,7 @@ int main()
 
     for (int i = 0; i < const_size; ++i)
     {
-        printf("area Shape n° %d : %f...\n", i + 1, tab_shape[i]->get_area());
+        printf("area Shape n %d : %f...\n", i + 1, tab_shape[i]->get_area());
         tab_shape[i]->print_data();
     }
 
