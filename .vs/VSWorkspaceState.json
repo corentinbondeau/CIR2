@@ -8,10 +8,9 @@
   "ExpandedNodes": [
     "",
     "\\TD",
-    "\\TD\\TD1",
     "\\TP",
     "\\TP\\TP1"
   ],
-  "SelectedNode": "\\TP\\TP1\\TP1_1.cpp",
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

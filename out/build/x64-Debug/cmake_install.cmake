@@ -35,6 +35,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/TD/cmake_install.cmake")
+  include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/TP/cmake_install.cmake")
 
 endif()
 

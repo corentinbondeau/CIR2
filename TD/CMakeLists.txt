@@ -1,5 +1,5 @@
 ﻿cmake_minimum_required(VERSION 3.9)
 
-project(TP)
+project(TD)
 
-add_subdirectory(TP1)
+add_subdirectory(TD1)
