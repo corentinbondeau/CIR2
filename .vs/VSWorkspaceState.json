@@ -7,10 +7,12 @@
   },
   "ExpandedNodes": [
     "",
+    "\\COURS",
+    "\\COURS\\OOP1",
     "\\TD",
     "\\TP",
     "\\TP\\TP1"
   ],
-  "SelectedNode": "\\CMakeLists.txt",
+  "SelectedNode": "\\COURS\\OOP1\\shape_cpp.hpp",
   "PreviewInSolutionExplorer": false
 }

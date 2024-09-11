@@ -4,3 +4,4 @@ project(TD_General)
 
 add_subdirectory(TD)
 add_subdirectory(TP)
+add_subdirectory(COURS)
