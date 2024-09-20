@@ -8,11 +8,11 @@
   "ExpandedNodes": [
     "",
     "\\COURS",
-    "\\COURS\\OOP1",
+    "\\COURS\\OOP_introduction",
     "\\TD",
     "\\TP",
     "\\TP\\TP1"
   ],
-  "SelectedNode": "\\COURS\\OOP1\\main_cpp.cpp",
+  "SelectedNode": "\\COURS\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

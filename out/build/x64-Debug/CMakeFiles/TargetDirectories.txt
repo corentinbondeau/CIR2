@@ -22,3 +22,9 @@ C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/CMakeFiles
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP1/CMakeFiles/main_cpp.dir
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP1/CMakeFiles/edit_cache.dir
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP1/CMakeFiles/rebuild_cache.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/Shape_C_1.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/Shape_C_2.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/Shape_cpp.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/My_array.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/edit_cache.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/rebuild_cache.dir

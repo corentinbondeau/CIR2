@@ -205,6 +205,15 @@ COURS_IS_TOP_LEVEL:STATIC=OFF
 COURS_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS
 
 //Value Computed by CMake
+Shape_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction
+
+//Value Computed by CMake
+Shape_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Shape_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS/OOP_introduction
+
+//Value Computed by CMake
 TD_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/TD/TD1
 
 //Value Computed by CMake
@@ -322,7 +331,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //noop for ranlib
