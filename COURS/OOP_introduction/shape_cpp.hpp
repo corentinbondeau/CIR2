@@ -47,3 +47,16 @@ struct Circle : Shape_cpp
 	Circle(const float &radius);
 };
 
+struct Square_as_Shape : Shape_cpp
+{
+	float length_;
+	float get_area();
+	void print_data();
+	Square_as_Shape(const float& length);
+};
+
+struct Square_as_Rectangle : Rectangle
+{
+	Square_as_Rectangle(const float& length);
+};
+

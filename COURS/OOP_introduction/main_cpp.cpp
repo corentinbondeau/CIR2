@@ -5,7 +5,7 @@
 
 int main()
 {
-    const int const_size = 5;
+    const int const_size = 4;
     Rectangle rectangle(5.f, 10.f); // length_ = 5.f, width_ = 10.f;
     printf("area Shape : %f...\n", rectangle.get_area());
     rectangle.print_data();
@@ -24,8 +24,8 @@ int main()
     tab_shape[0] = new Rectangle(5, 10);
     tab_shape[1] = new Triangle(5, 12, 15);
     tab_shape[2] = new Circle(20);
-    tab_shape[3] = new Square_as_shape(20);
-    tab_shape[4] = new Square_as_rectangle(20);
+    tab_shape[3] = new Square_as_Shape(20);
+    tab_shape[4] = new Square_as_Rectangle(20);
 
     for (int i = 0; i < const_size; ++i)
     {

@@ -63,5 +63,25 @@ void Circle::print_data()
            radius_);
 }
 
+Square_as_Rectangle::Square_as_Rectangle(const float& length) : Rectangle(length, length)
+{
+
+}
+
+
+Square_as_Shape::Square_as_Shape(const float& length) : length_(length)
+{
+}
+
+float Square_as_Shape::get_area()
+{
+	return length_ * length_;
+}
+
+void Square_as_Shape::print_data()
+{
+	printf("Shape type : Square as Shape with side length : %f\n",
+		length_);
+}
 
 
