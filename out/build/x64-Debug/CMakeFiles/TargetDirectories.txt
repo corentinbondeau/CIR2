@@ -28,3 +28,6 @@ C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introd
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/My_array.dir
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/edit_cache.dir
 C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/CMakeFiles/rebuild_cache.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/héritage_constructeur_destructeur_méthodes_virtuelles/CMakeFiles/Shape.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/héritage_constructeur_destructeur_méthodes_virtuelles/CMakeFiles/edit_cache.dir
+C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/héritage_constructeur_destructeur_méthodes_virtuelles/CMakeFiles/rebuild_cache.dir

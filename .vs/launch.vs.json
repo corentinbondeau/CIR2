@@ -13,6 +13,12 @@
       "project": "CMakeLists.txt",
       "projectTarget": "TD1_8.exe (TD\\TD1\\TD1_8.exe)",
       "name": "TD1_8.exe (TD\\TD1\\TD1_8.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Shape.exe (COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\Shape.exe)",
+      "name": "Shape.exe (COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\Shape.exe)"
     }
   ]
 }

@@ -1,0 +1,98 @@
+@startuml Test Diagram
+skinparam classAttributeIconSize 0
+
+
+
+
+/' Objects '/
+class Shape {
+	+Shape(color : Color = blue)
+	#color_ : const Color
+	-{static} global_count_ : unsigned = 0
+	-count_ : unsigned
+	+print_data() : void
+}
+
+class Rectangle {
+	+Rectangle(length : float , width: float, color : Color = blue)
+	-length_ : float
+	-width_ : float
+	+print_data() : void
+}
+
+
+class Rectangle_pure_virtual {
+	+Rectangle_pure_virtual(length : float , width: float, color : Color = blue)
+	-length_ : float
+	-width_ : float
+	+print_data() : void
+}
+
+
+class Rectangle_virtual {
+	+Rectangle_virtual(length : float , width: float, color : Color = blue)
+	-length_ : float
+	-width_ : float
+	+print_data() : void
+}
+
+
+
+
+abstract class Shape_pure_virtual {
+	+Shape_pure_virtual(color : Color = blue)
+	+{abstract} print_data() : void = 0
+}
+
+
+class Shape_virtual {
+	+Shape_virtual(color : Color = blue)
+	+{abstract}print_data() : void
+}
+
+
+enum Color {
+	blue
+	brown
+	green
+	orange
+}
+
+
+
+
+
+/' Inheritance relationships '/
+
+Shape <|-- Rectangle
+
+
+Shape <|-- Shape_pure_virtual
+
+
+Shape <|-- Shape_virtual
+
+
+Shape_pure_virtual <|-- Rectangle_pure_virtual
+
+
+Shape_virtual <|-- Rectangle_virtual
+
+
+
+
+
+/' Aggregation relationships '/
+
+Shape *-- Color
+
+
+
+
+
+
+/' Nested objects '/
+
+
+
+@enduml
