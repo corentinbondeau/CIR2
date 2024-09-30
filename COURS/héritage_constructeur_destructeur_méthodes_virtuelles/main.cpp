@@ -58,18 +58,6 @@ int main()
         tableau_de_quadrupede[iquad]->speak();
     }
 
-    constexpr size_t nb_quadrupede = 4;
-    Quadrupede* tableau_de_quadrupede[nb_quadrupede];
-    // On cree alternativement des chiens et des chats.
-    Quadrupede* matouPremier = new Chat("Felix");
-    Quadrupede* cabotPremier = new Chien("Albert");
-    Quadrupede* matouLeSecond = new Chat("Simba");
-    Quadrupede* cabotLeSecond = new Chien("Stein");
-    // On les ajoute au tableau
-    tableau_de_quadrupede[0] = matouPremier;
-    tableau_de_quadrupede[1] = cabotPremier;
-    tableau_de_quadrupede[2] = matouLeSecond;
-    tableau_de_quadrupede[3] = cabotLeSecond;
     // On lance la methode de la classe fille si elle est de type pointeur sur une classe Chat
     for (size_t iquad = 0; iquad < nb_quadrupede; ++iquad) {
         auto tmp = dynamic_cast<Chat*> (tableau_de_quadrupede[iquad]);
