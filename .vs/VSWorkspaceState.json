@@ -7,10 +7,12 @@
   },
   "ExpandedNodes": [
     "",
+    "\\COURS",
+    "\\COURS\\Fraction",
     "\\TD",
     "\\TP",
     "\\TP\\TP1"
   ],
-  "SelectedNode": "\\COURS",
+  "SelectedNode": "\\COURS\\Fraction\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
