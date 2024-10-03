@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.5)
 
-project(fraction)
+project(Fraction)
 
 set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 set(SRCS 
 	"Fraction.cpp" 
 	"main.cpp")
-add_executable (fraction ${SRCS})
+add_executable (Fraction main.cpp "main.cpp")
 if (MSVC)
     add_compile_options(/W4 /WX /DEBUG)
 else()

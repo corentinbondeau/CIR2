@@ -9,10 +9,11 @@
     "",
     "\\COURS",
     "\\COURS\\Fraction",
+    "\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles",
     "\\TD",
     "\\TP",
     "\\TP\\TP1"
   ],
-  "SelectedNode": "\\COURS\\Fraction\\CMakeLists.txt",
+  "SelectedNode": "\\COURS\\Fraction\\Fraction.hpp",
   "PreviewInSolutionExplorer": false
 }

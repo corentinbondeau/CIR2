@@ -205,6 +205,15 @@ COURS_IS_TOP_LEVEL:STATIC=OFF
 COURS_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS
 
 //Value Computed by CMake
+Fraction_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/Fraction
+
+//Value Computed by CMake
+Fraction_IS_TOP_LEVEL:STATIC=OFF
+
+//Value Computed by CMake
+Fraction_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS/Fraction
+
+//Value Computed by CMake
 Shape_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/héritage_constructeur_destructeur_méthodes_virtuelles
 
 //Value Computed by CMake

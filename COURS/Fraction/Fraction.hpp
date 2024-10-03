@@ -3,7 +3,6 @@
 #include <iostream>
 #include <compare>
 
-
 class Fraction
 {
 private:
@@ -37,8 +36,8 @@ public:
     bool operator==(const Fraction &fraction) const;
     bool operator==(const int &val) const;
 
-    // strong_ordering operator<=>(const Fraction &fraction) const;
-    // strong_ordering operator<=>(const int &val) const;
+    strong_ordering operator<=>(const Fraction &fraction) const;
+    strong_ordering operator<=>(const int &val) const;
 
     Fraction operator+(const int &number);
 
@@ -49,4 +48,51 @@ public:
     friend ostream &operator<<(ostream &os, const Fraction &fraction);
 
     friend istream &operator>>(istream &os, Fraction &fraction);
+};
+
+class Point2D
+{
+private:
+	int x_ = 0, y_ = 0;
+
+public:
+	Point2D(const Point2D& point);
+	Point2D(const int& x = 0, const int& y = 0);
+	void set_x(const int& x);
+	void set_y(const int& y);
+	int get_x() const;
+	int get_y() const;
+
+	Point2D operator+(const Point2D& point);
+
+	bool operator<(const Point2D& point) const;
+	bool operator>(const Point2D& point) const;
+	bool operator!=(const Point2D& point) const;
+	bool operator<=(const Point2D& point) const;
+	bool operator>=(const Point2D& point) const;
+
+	bool operator<(const int& val) const;
+	bool operator>(const int& val) const;
+	bool operator!=(const int& val) const;
+	bool operator<=(const int& val) const;
+	bool operator>=(const int& val) const;
+
+	friend bool operator<(const int& val, const Point2D& point);
+	friend bool operator>(const int& val, const Point2D& point);
+
+	bool operator==(const Point2D& point) const;
+	bool operator==(const int& val) const;
+
+	strong_ordering operator<=>(const Point2D& point) const;
+	strong_ordering operator<=>(const int& val) const;
+
+	Point2D operator+(const int& number);
+
+	operator int();
+
+	friend Point2D operator+(const int& val, const Point2D& point);
+
+	friend ostream& operator<<(ostream& os, const Point2D& point);
+
+	friend istream& operator>>(istream& os, Point2D& point);
 };

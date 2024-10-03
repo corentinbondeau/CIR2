@@ -37,6 +37,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP1/cmake_install.cmake")
   include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP_introduction/cmake_install.cmake")
   include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/héritage_constructeur_destructeur_méthodes_virtuelles/cmake_install.cmake")
+  include("C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/Fraction/cmake_install.cmake")
 
 endif()
 

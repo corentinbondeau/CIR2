@@ -19,6 +19,18 @@
       "project": "CMakeLists.txt",
       "projectTarget": "Shape.exe (COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\Shape.exe)",
       "name": "Shape.exe (COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\Shape.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "Fraction.exe (COURS\\Fraction\\Fraction.exe)",
+      "name": "Fraction.exe (COURS\\Fraction\\Fraction.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "main.cpp.exe (COURS\\Fraction\\main.cpp.exe)",
+      "name": "main.cpp.exe (COURS\\Fraction\\main.cpp.exe)"
     }
   ]
 }
