@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\TP\\TP2\\exo3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\exo3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2_5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\TP\\TP2\\TP2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP2\\TP2_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\Fraction\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TP\\TP1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TD\\TD1\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TD\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\.vs\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\launch.vs.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -39,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\Fraction\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\Fraction\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:COURS\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\shape.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -66,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,72 +106,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TP2.cpp",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2.cpp",
-              "RelativeDocumentMoniker": "TP\\TP2\\TP2.cpp",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2.cpp",
-              "RelativeToolTip": "TP\\TP2\\TP2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:47:37.592Z",
+              "DocumentIndex": 1,
+              "Title": "exo3.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\TP\\TP2\\exo3.txt",
+              "RelativeDocumentMoniker": "TP\\TP2\\exo3.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\TP\\TP2\\exo3.txt",
+              "RelativeToolTip": "TP\\TP2\\exo3.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T15:26:03.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "TP2_5.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_5.cpp",
+              "RelativeDocumentMoniker": "TP\\TP2\\TP2_5.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_5.cpp",
+              "RelativeToolTip": "TP\\TP2\\TP2_5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T15:18:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TP2_4.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_4.cpp",
+              "RelativeDocumentMoniker": "TP\\TP2\\TP2_4.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_4.cpp",
+              "RelativeToolTip": "TP\\TP2\\TP2_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T15:18:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TP2_3.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_3.cpp",
+              "RelativeDocumentMoniker": "TP\\TP2\\TP2_3.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_3.cpp",
+              "RelativeToolTip": "TP\\TP2\\TP2_3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T15:17:53.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\CMakeLists.txt",
               "RelativeDocumentMoniker": "TP\\TP2\\CMakeLists.txt",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\CMakeLists.txt",
               "RelativeToolTip": "TP\\TP2\\CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-10-09T14:47:12.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TD1_1.cpp",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\TD1_1.cpp",
-              "RelativeDocumentMoniker": "TD\\TD1\\TD1_1.cpp",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\TD1_1.cpp",
-              "RelativeToolTip": "TD\\TD1\\TD1_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "TP2_2.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_2.cpp",
+              "RelativeDocumentMoniker": "TP\\TP2\\TP2_2.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_2.cpp",
+              "RelativeToolTip": "TP\\TP2\\TP2_2.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:46:32.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TP1_1.cpp",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\TP1_1.cpp",
-              "RelativeDocumentMoniker": "TP\\TP1\\TP1_1.cpp",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\TP1_1.cpp",
-              "RelativeToolTip": "TP\\TP1\\TP1_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:46:08.331Z",
+              "WhenOpened": "2024-10-09T15:08:54.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "CMakeLists.txt",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\CMakeLists.txt",
-              "RelativeToolTip": "CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T14:45:21.585Z",
+              "Title": "TP2_1.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_1.cpp",
+              "RelativeDocumentMoniker": "TP\\TP2\\TP2_1.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_1.cpp",
+              "RelativeToolTip": "TP\\TP2\\TP2_1.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T14:47:37.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "TD\\TD1\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\CMakeLists.txt",
+              "RelativeToolTip": "TD\\TD1\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T14:55:55.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\CMakeLists.txt",
               "RelativeDocumentMoniker": "TP\\TP1\\CMakeLists.txt",
@@ -152,72 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "TP\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\CMakeLists.txt",
-              "RelativeToolTip": "TP\\CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T15:03:19.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
-              "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T15:02:21.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Fraction.hpp",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\Fraction.hpp",
-              "RelativeDocumentMoniker": "COURS\\Fraction\\Fraction.hpp",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\Fraction.hpp",
-              "RelativeToolTip": "COURS\\Fraction\\Fraction.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-02T14:54:34.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CMakeLists.txt",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt",
-              "RelativeDocumentMoniker": "COURS\\Fraction\\CMakeLists.txt",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt",
-              "RelativeToolTip": "COURS\\Fraction\\CMakeLists.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T14:54:31.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\main.cpp",
-              "RelativeDocumentMoniker": "COURS\\Fraction\\main.cpp",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\main.cpp",
-              "RelativeToolTip": "COURS\\Fraction\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T14:54:20.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "CMakeLists.txt",
               "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\CMakeLists.txt",
               "RelativeDocumentMoniker": "COURS\\CMakeLists.txt",
@@ -230,7 +236,137 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "COURS\\Fraction\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\CMakeLists.txt",
+              "RelativeToolTip": "COURS\\Fraction\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-02T14:54:31.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "TD\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\CMakeLists.txt",
+              "RelativeToolTip": "TD\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T14:55:53.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "launch.vs.json",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\.vs\\launch.vs.json",
+              "RelativeDocumentMoniker": ".vs\\launch.vs.json",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\.vs\\launch.vs.json",
+              "RelativeToolTip": ".vs\\launch.vs.json",
+              "ViewState": "AgIAABUAAAAAAAAAAAAnwCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T14:55:43.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TD1_1.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\TD1_1.cpp",
+              "RelativeDocumentMoniker": "TD\\TD1\\TD1_1.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TD\\TD1\\TD1_1.cpp",
+              "RelativeToolTip": "TD\\TD1\\TD1_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T14:46:32.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TP1_1.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\TP1_1.cpp",
+              "RelativeDocumentMoniker": "TP\\TP1\\TP1_1.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP1\\TP1_1.cpp",
+              "RelativeToolTip": "TP\\TP1\\TP1_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T14:46:08.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "TP\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\CMakeLists.txt",
+              "RelativeToolTip": "TP\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-02T15:03:19.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\CMakeLists.txt",
+              "RelativeToolTip": "CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-09T14:45:21.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
+              "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-02T15:02:21.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Fraction.hpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\Fraction.hpp",
+              "RelativeDocumentMoniker": "COURS\\Fraction\\Fraction.hpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\Fraction.hpp",
+              "RelativeToolTip": "COURS\\Fraction\\Fraction.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-02T14:54:34.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\main.cpp",
+              "RelativeDocumentMoniker": "COURS\\Fraction\\main.cpp",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\Fraction\\main.cpp",
+              "RelativeToolTip": "COURS\\Fraction\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-02T14:54:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "shape.hpp",
               "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\shape.hpp",
               "RelativeDocumentMoniker": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\shape.hpp",
@@ -243,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\main.cpp",
               "RelativeDocumentMoniker": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\main.cpp",
@@ -251,8 +387,7 @@
               "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\main.cpp",
               "ViewState": "AgIAAC8AAAAAAAAAAAAMwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-27T13:57:05.349Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T13:57:05.349Z"
             }
           ]
         }

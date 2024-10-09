@@ -31,6 +31,12 @@
       "project": "CMakeLists.txt",
       "projectTarget": "main.cpp.exe (COURS\\Fraction\\main.cpp.exe)",
       "name": "main.cpp.exe (COURS\\Fraction\\main.cpp.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "TP2_1.exe (TP\\TP2\\TP2_1.exe)",
+      "name": "TP2_1.exe (TP\\TP2\\TP2_1.exe)"
     }
   ]
 }
