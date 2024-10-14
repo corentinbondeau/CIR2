@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     ifstream fichier("exo3.txt");
     if (!fichier.is_open()) {
-        cerr << "Erreur : Impossible d'ouvrir le fichier texte.txt" << endl;
+        std::cerr << "Erreur : Impossible d'ouvrir le fichier exo3.txt" << std::endl;
         return 1;
     }
 
@@ -35,13 +35,13 @@ int main() {
 
     fichier.close();
 
-    cout << "Nombre de lignes : " << nbLignes << endl;
-    cout << "Nombre de mots : " << nbMots << endl;
-    cout << "Nombre de lettres : " << nbLettres << endl;
+    std::cout << "Nombre de lignes : " << nbLignes << std::endl;
+    std::cout << "Nombre de mots : " << nbMots << std::endl;
+    std::cout << "Nombre de lettres : " << nbLettres << std::endl;
 
-    cout << "Occurrences des lettres :" << endl;
+    std::cout << "Occurrences des lettres :" << std::endl;
     for (int i = 0; i < 26; i++) {
-        cout << static_cast<char>(i + 'a') << ": " << occurrencesLettres[i] << endl;
+        std::cout << static_cast<char>(i + 'a') << ": " << occurrencesLettres[i] << std:: endl;
     }
 
     return 0;

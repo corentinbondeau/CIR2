@@ -37,6 +37,18 @@
       "project": "CMakeLists.txt",
       "projectTarget": "TP2_1.exe (TP\\TP2\\TP2_1.exe)",
       "name": "TP2_1.exe (TP\\TP2\\TP2_1.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "TP2_5.exe (TP\\TP2\\TP2_5.exe)",
+      "name": "TP2_5.exe (TP\\TP2\\TP2_5.exe)"
+    },
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "TP2_4.exe (TP\\TP2\\TP2_4.exe)",
+      "name": "TP2_4.exe (TP\\TP2\\TP2_4.exe)"
     }
   ]
 }

@@ -684,6 +684,78 @@ build TP\TP2\TP2_5.exe: CXX_EXECUTABLE_LINKER__TP2_5_Debug TP\TP2\CMakeFiles\TP2
   TARGET_IMPLIB = TP\TP2\TP2_5.lib
   TARGET_PDB = TP\TP2\TP2_5.pdb
 
+# =============================================================================
+# Object build statements for EXECUTABLE target trajectory
+
+
+#############################################
+# Order-only phony target for trajectory
+
+build cmake_object_order_depends_target_trajectory: phony || .
+
+build TP\TP2\CMakeFiles\trajectory.dir\trajectory.cpp.obj: CXX_COMPILER__trajectory_unscanned_Debug C$:\Users\corentin.bondeau\source\repos\CIR2\TP\TP2\trajectory.cpp || cmake_object_order_depends_target_trajectory
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = TP\TP2\CMakeFiles\trajectory.dir
+  OBJECT_FILE_DIR = TP\TP2\CMakeFiles\trajectory.dir
+  TARGET_COMPILE_PDB = TP\TP2\CMakeFiles\trajectory.dir\
+  TARGET_PDB = TP\TP2\trajectory.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target trajectory
+
+
+#############################################
+# Link the executable TP\TP2\trajectory.exe
+
+build TP\TP2\trajectory.exe: CXX_EXECUTABLE_LINKER__trajectory_Debug TP\TP2\CMakeFiles\trajectory.dir\trajectory.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = TP\TP2\CMakeFiles\trajectory.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = TP\TP2\CMakeFiles\trajectory.dir\
+  TARGET_FILE = TP\TP2\trajectory.exe
+  TARGET_IMPLIB = TP\TP2\trajectory.lib
+  TARGET_PDB = TP\TP2\trajectory.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target Point3D
+
+
+#############################################
+# Order-only phony target for Point3D
+
+build cmake_object_order_depends_target_Point3D: phony || .
+
+build TP\TP2\CMakeFiles\Point3D.dir\Point3D.cpp.obj: CXX_COMPILER__Point3D_unscanned_Debug C$:\Users\corentin.bondeau\source\repos\CIR2\TP\TP2\Point3D.cpp || cmake_object_order_depends_target_Point3D
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  OBJECT_DIR = TP\TP2\CMakeFiles\Point3D.dir
+  OBJECT_FILE_DIR = TP\TP2\CMakeFiles\Point3D.dir
+  TARGET_COMPILE_PDB = TP\TP2\CMakeFiles\Point3D.dir\
+  TARGET_PDB = TP\TP2\Point3D.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target Point3D
+
+
+#############################################
+# Link the executable TP\TP2\Point3D.exe
+
+build TP\TP2\Point3D.exe: CXX_EXECUTABLE_LINKER__Point3D_Debug TP\TP2\CMakeFiles\Point3D.dir\Point3D.cpp.obj
+  FLAGS = /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1
+  LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:console
+  LINK_LIBRARIES = kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  OBJECT_DIR = TP\TP2\CMakeFiles\Point3D.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = TP\TP2\CMakeFiles\Point3D.dir\
+  TARGET_FILE = TP\TP2\Point3D.exe
+  TARGET_IMPLIB = TP\TP2\Point3D.lib
+  TARGET_PDB = TP\TP2\Point3D.pdb
+
 
 #############################################
 # Utility command for edit_cache
@@ -1166,6 +1238,10 @@ build My_array: phony COURS\OOP_introduction\My_array.exe
 
 build My_array.exe: phony COURS\OOP_introduction\My_array.exe
 
+build Point3D: phony TP\TP2\Point3D.exe
+
+build Point3D.exe: phony TP\TP2\Point3D.exe
+
 build Shape: phony COURS\héritage_constructeur_destructeur_méthodes_virtuelles\Shape.exe
 
 build Shape.exe: phony COURS\héritage_constructeur_destructeur_méthodes_virtuelles\Shape.exe
@@ -1241,6 +1317,10 @@ build TP2_5.exe: phony TP\TP2\TP2_5.exe
 build main_cpp: phony COURS\OOP1\main_cpp.exe
 
 build main_cpp.exe: phony COURS\OOP1\main_cpp.exe
+
+build trajectory: phony TP\TP2\trajectory.exe
+
+build trajectory.exe: phony TP\TP2\trajectory.exe
 
 # =============================================================================
 # Folder targets.
@@ -1320,7 +1400,7 @@ build TP\TP1\all: phony TP\TP1\TP1_1.exe
 #############################################
 # Folder: C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/TP/TP2
 
-build TP\TP2\all: phony TP\TP2\TP2_1.exe TP\TP2\TP2_2.exe TP\TP2\TP2_3.exe TP\TP2\TP2_4.exe TP\TP2\TP2_5.exe
+build TP\TP2\all: phony TP\TP2\TP2_1.exe TP\TP2\TP2_2.exe TP\TP2\TP2_3.exe TP\TP2\TP2_4.exe TP\TP2\TP2_5.exe TP\TP2\trajectory.exe TP\TP2\Point3D.exe
 
 # =============================================================================
 # Built-in targets
