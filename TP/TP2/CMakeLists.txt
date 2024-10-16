@@ -1,6 +1,8 @@
 cmake_minimum_required(VERSION 3.9)
 project(TP)
 
+add_subdirectory(correction_exercices_TP2_1to3)
+
 # Créé l'exécutable pour ce sous projet 
 add_executable(TP2_1 TP2_1.cpp "TP2_1.cpp")
 add_executable(TP2_2 TP2_2.cpp "TP2_2.cpp")

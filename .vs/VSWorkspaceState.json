@@ -8,14 +8,15 @@
   "ExpandedNodes": [
     "",
     "\\COURS",
-    "\\COURS\\Fraction",
     "\\COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles",
     "\\TD",
     "\\TD\\TD1",
     "\\TP",
-    "\\TP\\TP1",
-    "\\TP\\TP2"
+    "\\TP\\TP2",
+    "\\TP\\TP2\\correction_exercices_TP2_1to3",
+    "\\TP\\TP3",
+    "\\TP\\TP4"
   ],
-  "SelectedNode": "\\TP\\TP2\\TP2_4.cpp",
+  "SelectedNode": "\\TP\\TP4\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }

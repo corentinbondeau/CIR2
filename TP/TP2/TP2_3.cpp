@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    ifstream fichier("exo3.txt");
+    ifstream fichier("../../exo3.txt");
     if (!fichier.is_open()) {
         std::cerr << "Erreur : Impossible d'ouvrir le fichier exo3.txt" << std::endl;
         return 1;
