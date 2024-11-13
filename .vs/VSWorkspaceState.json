@@ -6,7 +6,10 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PROJET",
+    "\\PROJET\\traffic_light"
   ],
+  "SelectedNode": "\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
