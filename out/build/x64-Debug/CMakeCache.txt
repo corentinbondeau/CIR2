@@ -253,15 +253,6 @@ TD_IS_TOP_LEVEL:STATIC=OFF
 TD_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/TD/TD1
 
 //Value Computed by CMake
-TP2_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/TP/TP2
-
-//Value Computed by CMake
-TP2_IS_TOP_LEVEL:STATIC=OFF
-
-//Value Computed by CMake
-TP2_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/TP/TP2
-
-//Value Computed by CMake
 TP_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/OOP1
 
 //Value Computed by CMake
@@ -269,15 +260,6 @@ TP_IS_TOP_LEVEL:STATIC=OFF
 
 //Value Computed by CMake
 TP_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS/OOP1
-
-//Value Computed by CMake
-fraction_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/COURS/Fraction
-
-//Value Computed by CMake
-fraction_IS_TOP_LEVEL:STATIC=OFF
-
-//Value Computed by CMake
-fraction_SOURCE_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/COURS/Fraction
 
 //Value Computed by CMake
 thread_example_BINARY_DIR:STATIC=C:/Users/corentin.bondeau/source/repos/CIR2/out/build/x64-Debug/PROJET/traffic_light
