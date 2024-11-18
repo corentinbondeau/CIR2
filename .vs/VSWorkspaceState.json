@@ -6,8 +6,9 @@
     ]
   },
   "ExpandedNodes": [
-    ""
+    "",
+    "\\traffic_light"
   ],
-  "SelectedNode": "\\TD",
+  "SelectedNode": "\\traffic_light\\traffic_light.cpp",
   "PreviewInSolutionExplorer": false
 }
