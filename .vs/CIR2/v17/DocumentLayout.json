@@ -204,7 +204,7 @@
               "RelativeDocumentMoniker": "traffic_light\\traffic_light.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\traffic_light\\traffic_light.cpp",
               "RelativeToolTip": "traffic_light\\traffic_light.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcBAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAYwPgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T07:44:54.078Z",
               "EditorCaption": ""
@@ -219,8 +219,7 @@
               "RelativeToolTip": "traffic_light\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-13T15:33:16.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T15:33:16.288Z"
             },
             {
               "$type": "Document",
