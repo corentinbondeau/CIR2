@@ -204,13 +204,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "photo_prog.png",
-              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\traffic_light\\photo_prog.png",
+              "DocumentMoniker": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\traffic_light\\photo_prog.png",
               "RelativeDocumentMoniker": "traffic_light\\photo_prog.png",
-              "ToolTip": "C:\\Users\\corentin.bondeau\\Source\\Repos\\CIR2\\traffic_light\\photo_prog.png",
+              "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\traffic_light\\photo_prog.png",
               "RelativeToolTip": "traffic_light\\photo_prog.png",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2024-11-27T14:57:03.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T14:57:03.944Z"
             },
             {
               "$type": "Document",
@@ -220,7 +219,7 @@
               "RelativeDocumentMoniker": "traffic_light\\traffic_light.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\traffic_light\\traffic_light.cpp",
               "RelativeToolTip": "traffic_light\\traffic_light.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAABwBAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T07:44:54.078Z",
               "EditorCaption": ""
@@ -235,7 +234,8 @@
               "RelativeToolTip": "traffic_light\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-13T15:33:16.288Z"
+              "WhenOpened": "2024-11-13T15:33:16.288Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -245,9 +245,10 @@
               "RelativeDocumentMoniker": "TP\\TP2\\CMakeLists.txt",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\CMakeLists.txt",
               "RelativeToolTip": "TP\\TP2\\CMakeLists.txt",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T14:47:12.182Z"
+              "WhenOpened": "2024-10-09T14:47:12.182Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -257,9 +258,10 @@
               "RelativeDocumentMoniker": "TP\\TP4\\TP4_7.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP4\\TP4_7.cpp",
               "RelativeToolTip": "TP\\TP4\\TP4_7.cpp",
-              "ViewState": "AgIAAGoAAAAAAAAAAABBwIQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGgAAAAAAAAAAABRwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:18:00.26Z"
+              "WhenOpened": "2024-10-16T14:18:00.26Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -271,7 +273,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_8.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAABBwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:18:08.195Z"
+              "WhenOpened": "2024-10-16T14:18:08.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -283,7 +286,8 @@
               "RelativeToolTip": "CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T14:45:21.585Z"
+              "WhenOpened": "2024-10-09T14:45:21.585Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -295,7 +299,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_6.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:17:47.978Z"
+              "WhenOpened": "2024-10-16T14:17:47.978Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -307,7 +312,8 @@
               "RelativeToolTip": "TP\\TP4\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-16T14:19:06.584Z"
+              "WhenOpened": "2024-10-16T14:19:06.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -319,7 +325,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:17:22.775Z"
+              "WhenOpened": "2024-10-16T14:17:22.775Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -331,7 +338,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_5.cpp",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:17:36.698Z"
+              "WhenOpened": "2024-10-16T14:17:36.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -343,7 +351,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:17:13.372Z"
+              "WhenOpened": "2024-10-16T14:17:13.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -355,7 +364,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_2.cpp",
               "ViewState": "AgIAAE0AAAAAAAAAAAAgwGgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:17:05.714Z"
+              "WhenOpened": "2024-10-16T14:17:05.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -367,7 +377,8 @@
               "RelativeToolTip": "TP\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T15:03:19.97Z"
+              "WhenOpened": "2024-10-02T15:03:19.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -379,7 +390,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_12.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:33:31.933Z"
+              "WhenOpened": "2024-10-16T14:33:31.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -389,9 +401,10 @@
               "RelativeDocumentMoniker": "TP\\TP2\\TP2_3.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_3.cpp",
               "RelativeToolTip": "TP\\TP2\\TP2_3.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAABBwAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAABRwAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T15:17:53.451Z"
+              "WhenOpened": "2024-10-09T15:17:53.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -403,7 +416,8 @@
               "RelativeToolTip": "TP\\TP3\\TP3_4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:03:42.655Z"
+              "WhenOpened": "2024-10-16T14:03:42.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -415,7 +429,8 @@
               "RelativeToolTip": "TP\\TP2\\correction_exercices_TP2_1to3\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-16T14:15:25.458Z"
+              "WhenOpened": "2024-10-16T14:15:25.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -427,7 +442,8 @@
               "RelativeToolTip": "TP\\TP3\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T15:03:28.408Z"
+              "WhenOpened": "2024-10-02T15:03:28.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -439,7 +455,8 @@
               "RelativeToolTip": "TP\\TP4\\TP4_11.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:16:56.113Z"
+              "WhenOpened": "2024-10-16T14:16:56.113Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -451,7 +468,8 @@
               "RelativeToolTip": "TP\\TP2\\correction_exercices_TP2_1to3\\TP2_3_correc.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:14:14.933Z"
+              "WhenOpened": "2024-10-16T14:14:14.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -461,9 +479,10 @@
               "RelativeDocumentMoniker": "TP\\TP3\\TP3_3.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP3\\TP3_3.cpp",
               "RelativeToolTip": "TP\\TP3\\TP3_3.cpp",
-              "ViewState": "AgIAABcAAAAAAAAAAABBwFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAABRwFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:03:31.015Z"
+              "WhenOpened": "2024-10-16T14:03:31.015Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -475,7 +494,8 @@
               "RelativeToolTip": "TP\\TP2\\exo3.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T15:26:03.423Z"
+              "WhenOpened": "2024-10-09T15:26:03.423Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -485,9 +505,10 @@
               "RelativeDocumentMoniker": "TP\\TP3\\TP3_22.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP3\\TP3_22.cpp",
               "RelativeToolTip": "TP\\TP3\\TP3_22.cpp",
-              "ViewState": "AgIAACsAAAAAAAAAAABBwDUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAABRwDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:09:31.666Z"
+              "WhenOpened": "2024-10-16T14:09:31.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -499,7 +520,8 @@
               "RelativeToolTip": "TP\\TP3\\TP3_21.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-16T14:03:20.224Z"
+              "WhenOpened": "2024-10-16T14:03:20.224Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -511,7 +533,8 @@
               "RelativeToolTip": "TP\\TP2\\TP2_4.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T15:18:03.726Z"
+              "WhenOpened": "2024-10-09T15:18:03.726Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -521,9 +544,10 @@
               "RelativeDocumentMoniker": "TP\\TP2\\TP2_1.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP2\\TP2_1.cpp",
               "RelativeToolTip": "TP\\TP2\\TP2_1.cpp",
-              "ViewState": "AgIAABMAAAAAAAAAAABBwAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAABRwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:47:37.592Z"
+              "WhenOpened": "2024-10-09T14:47:37.592Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -535,7 +559,8 @@
               "RelativeToolTip": "TP\\TP2\\TP2_2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T15:08:54.797Z"
+              "WhenOpened": "2024-10-09T15:08:54.797Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -545,9 +570,10 @@
               "RelativeDocumentMoniker": "TP\\TP3\\TP3_1.cpp",
               "ToolTip": "C:\\Users\\corentin.bondeau\\source\\repos\\CIR2\\TP\\TP3\\TP3_1.cpp",
               "RelativeToolTip": "TP\\TP3\\TP3_1.cpp",
-              "ViewState": "AgIAABkAAAAAAAAAAABBwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAABRwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:46:08.331Z"
+              "WhenOpened": "2024-10-09T14:46:08.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -559,7 +585,8 @@
               "RelativeToolTip": "TD\\TD1\\TD1_7.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T07:31:27.063Z"
+              "WhenOpened": "2024-10-14T07:31:27.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -584,7 +611,8 @@
               "RelativeToolTip": "TP\\TP2\\TP2_5.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T15:18:15.455Z"
+              "WhenOpened": "2024-10-09T15:18:15.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -596,7 +624,8 @@
               "RelativeToolTip": "TD\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T14:55:53.079Z"
+              "WhenOpened": "2024-10-09T14:55:53.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -608,7 +637,8 @@
               "RelativeToolTip": "TD\\TD1\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-09T14:55:55.849Z"
+              "WhenOpened": "2024-10-09T14:55:55.849Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -620,7 +650,8 @@
               "RelativeToolTip": "TP\\TP2\\Point3D.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T06:55:05.627Z"
+              "WhenOpened": "2024-10-14T06:55:05.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -632,7 +663,8 @@
               "RelativeToolTip": "TP\\TP2\\Point3D.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T06:54:35.232Z"
+              "WhenOpened": "2024-10-14T06:54:35.232Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -644,7 +676,8 @@
               "RelativeToolTip": "TP\\TP2\\trajectory.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-14T06:58:53.8Z"
+              "WhenOpened": "2024-10-14T06:58:53.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -656,7 +689,8 @@
               "RelativeToolTip": "TP\\TP2\\trajectory.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-14T06:59:23.833Z"
+              "WhenOpened": "2024-10-14T06:59:23.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -668,7 +702,8 @@
               "RelativeToolTip": "COURS\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T14:51:26.38Z"
+              "WhenOpened": "2024-10-02T14:51:26.38Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -680,7 +715,8 @@
               "RelativeToolTip": "COURS\\Fraction\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T14:54:31.8Z"
+              "WhenOpened": "2024-10-02T14:54:31.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -692,7 +728,8 @@
               "RelativeToolTip": "TD\\TD1\\TD1_1.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-09T14:46:32.141Z"
+              "WhenOpened": "2024-10-09T14:46:32.141Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -704,7 +741,8 @@
               "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\CMakeLists.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-02T15:02:21.407Z"
+              "WhenOpened": "2024-10-02T15:02:21.407Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -716,7 +754,8 @@
               "RelativeToolTip": "COURS\\Fraction\\Fraction.hpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-02T14:54:34.676Z"
+              "WhenOpened": "2024-10-02T14:54:34.676Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -728,7 +767,8 @@
               "RelativeToolTip": "COURS\\Fraction\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-02T14:54:20.73Z"
+              "WhenOpened": "2024-10-02T14:54:20.73Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -740,7 +780,8 @@
               "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\shape.hpp",
               "ViewState": "AgIAAGIAAAAAAAAAAAAQwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T14:37:11.146Z"
+              "WhenOpened": "2024-09-27T14:37:11.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -752,7 +793,8 @@
               "RelativeToolTip": "COURS\\h\u00E9ritage_constructeur_destructeur_m\u00E9thodes_virtuelles\\main.cpp",
               "ViewState": "AgIAAC8AAAAAAAAAAAAMwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-27T13:57:05.349Z"
+              "WhenOpened": "2024-09-27T13:57:05.349Z",
+              "EditorCaption": ""
             }
           ]
         }
