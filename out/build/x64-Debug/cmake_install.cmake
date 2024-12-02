@@ -2,7 +2,7 @@
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Users/corentin.bondeau/Source/Repos/CIR2/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "C:/Users/corentin.bondeau/source/repos/CIR2/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

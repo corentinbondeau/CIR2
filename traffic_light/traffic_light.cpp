@@ -221,9 +221,9 @@ int main() {
     std::vector<Car> cars;
 
     // Ajout de voitures initiales sur la partie droite des routes
-    cars.emplace_back(300, 440, 80, 50, CAR_SPEED, sf::Color::Blue, false, false, true, false);  // Voiture bleue venant de la gauche
+    cars.emplace_back(50, 440, 80, 50, CAR_SPEED, sf::Color::Blue, false, false, true, false);  // Voiture bleue venant de la gauche
     cars.emplace_back(300, 100, 50, 80, CAR_SPEED, sf::Color::Green, true, false, false, false); // Voiture verte venant du haut
-    cars.emplace_back(800, 300, 80, 50, -CAR_SPEED, sf::Color::Yellow, false, false, false, true);  // Voiture jaune venant de la droite
+    cars.emplace_back(700, 300, 80, 50, -CAR_SPEED, sf::Color::Yellow, false, false, false, true);  // Voiture jaune venant de la droite
     cars.emplace_back(440, 800, 50, 80, -CAR_SPEED, sf::Color::Red, false, true, false, false); // Voiture rouge venant du bas
 
     // Boucle principale
@@ -238,13 +238,13 @@ int main() {
             if (event.type == sf::Event::KeyPressed && event.key.code == sf::Keyboard::A) {
                 int road = std::rand() % 4;
                 if (road == 0) { // Route horizontale haut
-                    cars.emplace_back(800, 300, 80, 50, -CAR_SPEED, sf::Color::Yellow, false, false, false, true);
+                    cars.emplace_back(700, 300, 80, 50, -CAR_SPEED, sf::Color::Yellow, false, false, false, true);
                 }
                 else if (road == 1) { // Route horizontale bas
-                    cars.emplace_back(300, 440, 80, 50, CAR_SPEED, sf::Color::Cyan, false, false, false, true);
+                    cars.emplace_back(50, 440, 80, 50, CAR_SPEED, sf::Color::Cyan, false, false, true, false);
                 }
                 else if (road == 2) { // Route verticale gauche
-                    cars.emplace_back(300, 100, 50, 80, CAR_SPEED, sf::Color::Magenta, true, false, false, false);
+                    cars.emplace_back(300, 50, 50, 80, CAR_SPEED, sf::Color::Magenta, true, false, false, false);
                 }
                 else { // Route verticale droite
                     cars.emplace_back(440, 800, 50, 80, -CAR_SPEED, sf::Color::Red, false, true, false, false);
@@ -265,25 +265,43 @@ int main() {
         }
 
         // Déterminer la phase en fonction du temps écoulé
+        // Mise à jour des feux de circulation
         sf::Time elapsed = lightClock.getElapsedTime();
+
         if (elapsed < GREEN_DURATION) {
-            lightPhase = 0; // Haut/bas verts
-            trafficLights[0].setState(GREEN);
-            trafficLights[1].setState(GREEN);
-            trafficLights[2].setState(RED);
-            trafficLights[3].setState(RED);
+            if (lightPhase == 0) {
+                // Phase 0 : Haut/Bas verts
+                trafficLights[0].setState(GREEN);  // Haut
+                trafficLights[1].setState(GREEN);  // Bas
+                trafficLights[2].setState(RED);    // Gauche
+                trafficLights[3].setState(RED);    // Droite
+            }
+            else {
+                // Phase 1 : Gauche/Droite verts
+                trafficLights[0].setState(RED);    // Haut
+                trafficLights[1].setState(RED);    // Bas
+                trafficLights[2].setState(GREEN);  // Gauche
+                trafficLights[3].setState(GREEN);  // Droite
+            }
         }
         else if (elapsed < GREEN_DURATION + ORANGE_DURATION) {
-            trafficLights[0].setState(ORANGE);
-            trafficLights[1].setState(ORANGE);
+            if (lightPhase == 0) {
+                // Phase 0 : Haut/Bas oranges
+                trafficLights[0].setState(ORANGE); // Haut
+                trafficLights[1].setState(ORANGE); // Bas
+            }
+            else {
+                // Phase 1 : Gauche/Droite oranges
+                trafficLights[2].setState(ORANGE); // Gauche
+                trafficLights[3].setState(ORANGE); // Droite
+            }
         }
         else {
-            lightPhase = 1; // Gauche/droite verts
-            trafficLights[0].setState(RED);
-            trafficLights[1].setState(RED);
-            trafficLights[2].setState(GREEN);
-            trafficLights[3].setState(GREEN);
+            // Après ORANGE_DURATION, on change de phase
+            lightClock.restart();
+            lightPhase = 1 - lightPhase; // Basculer la phase
         }
+
 
         // Déplacement des voitures
         for (auto& car : cars) {
